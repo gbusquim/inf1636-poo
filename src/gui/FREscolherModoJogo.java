@@ -10,8 +10,8 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 public class FREscolherModoJogo extends JFrame {
-	final int LARG_DEFAULT = 1280;
-	final int ALT_DEFAULT = 720;
+	final int LARG_DEFAULT = 310;
+	final int ALT_DEFAULT = 210;
 	
 	FREscolherModoJogo(EscolherModoJogo jogo) {
 		Toolkit tk=Toolkit.getDefaultToolkit();
@@ -35,7 +35,7 @@ public class FREscolherModoJogo extends JFrame {
 		JPanel Jpanel = new JPanel();
 		
 		final int LARG_BUTTON = 220;
-		final int ALT_BUTTON = 30;
+		final int ALT_BUTTON = 35;
 		
 		int xButton = (LARG_DEFAULT / 2) - (LARG_BUTTON / 2);
 		int yButton = (ALT_DEFAULT / 2) - (ALT_BUTTON / 2);
