@@ -1,0 +1,169 @@
+nome Jogador2
+numCasasRestantes 37
+numTirosAgua 5
+5 1
+13 0
+0 0
+8 0
+8 2
+
+tipoArma cruzador
+direcaoArma direita
+14 0
+casasDestruidas 0
+
+tipoArma couracado
+direcaoArma direita
+12 0
+casasDestruidas 0
+
+tipoArma cruzador
+direcaoArma direita
+10 0
+casasDestruidas 0
+
+tipoArma destroyer
+direcaoArma direita
+14 13
+casasDestruidas 0
+
+tipoArma destroyer
+direcaoArma direita
+12 13
+casasDestruidas 0
+
+tipoArma destroyer
+direcaoArma baixo
+4 13
+casasDestruidas 0
+
+tipoArma hidroaviao
+direcaoArma baixo
+7 1
+casasDestruidas 1
+8 1
+
+tipoArma hidroaviao
+direcaoArma baixo
+7 12
+casasDestruidas 0
+
+tipoArma hidroaviao
+direcaoArma cima
+1 6
+casasDestruidas 0
+
+tipoArma submarino
+direcaoArma direita
+2 0
+casasDestruidas 0
+
+tipoArma submarino
+direcaoArma direita
+4 7
+casasDestruidas 0
+
+tipoArma submarino
+direcaoArma direita
+14 5
+casasDestruidas 0
+
+tipoArma hidroaviao
+direcaoArma cima
+11 8
+casasDestruidas 0
+
+tipoArma hidroaviao
+direcaoArma cima
+2 11
+casasDestruidas 0
+
+tipoArma submarino
+direcaoArma direita
+6 5
+casasDestruidas 0
+
+
+nome Jogador1
+numCasasRestantes 37
+numTirosAgua 2
+8 0
+14 1
+
+tipoArma cruzador
+direcaoArma direita
+6 10
+casasDestruidas 0
+
+tipoArma cruzador
+direcaoArma direita
+13 4
+casasDestruidas 0
+
+tipoArma couracado
+direcaoArma baixo
+10 0
+casasDestruidas 1
+14 0
+
+tipoArma submarino
+direcaoArma direita
+3 0
+casasDestruidas 0
+
+tipoArma hidroaviao
+direcaoArma cima
+1 11
+casasDestruidas 0
+
+tipoArma hidroaviao
+direcaoArma cima
+1 3
+casasDestruidas 0
+
+tipoArma hidroaviao
+direcaoArma cima
+8 4
+casasDestruidas 0
+
+tipoArma destroyer
+direcaoArma direita
+11 3
+casasDestruidas 0
+
+tipoArma destroyer
+direcaoArma baixo
+10 9
+casasDestruidas 0
+
+tipoArma submarino
+direcaoArma direita
+5 2
+casasDestruidas 0
+
+tipoArma hidroaviao
+direcaoArma baixo
+4 6
+casasDestruidas 0
+
+tipoArma hidroaviao
+direcaoArma cima
+13 12
+casasDestruidas 0
+
+tipoArma destroyer
+direcaoArma direita
+8 11
+casasDestruidas 0
+
+tipoArma submarino
+direcaoArma direita
+4 13
+casasDestruidas 0
+
+tipoArma submarino
+direcaoArma direita
+14 9
+casasDestruidas 0
+
+
